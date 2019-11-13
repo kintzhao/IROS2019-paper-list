@@ -1,4 +1,5 @@
 # IROS2019-paper-list
+[paopao](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247509511&idx=1&sn=28fd9460ed8a1b1421f28a9666a11808&chksm=ec131803db6491157dee39d33d4dabff6845451f8f75c34a754eb312c4c7ced32b477da99a91&mpshare=1&scene=1&srcid=&sharer_sharetime=1573640202862&sharer_shareid=298720e284924b5e0a98f67f77934f65&pass_ticket=2rsg%2BdtONTXQRjmypM6td57nonUwSCoabpzz76xzb9I%3D#rd)
 
 The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019) has been held on November 4 – 8, 2019 in The Venetian Macao, Macau, China. IROS is one of the largest and most impacting robotics research conferences worldwide. It brings an international community of researchers, educators and practitioners to explore the frontier of science and technology in intelligent robots and systems, and discuss the latest advancements in this fast growing and exciting field.
 
